@@ -1,4 +1,4 @@
-## Objection Detection using Yolov8
+## Object Detection using Yolov8
 
   YOLOv8 (You Only Look Once version 8) is a state-of-the-art real-time object detection system designed for fast and accurate detection. It builds upon the success of previous YOLO versions, introducing enhancements in speed and accuracy, making it suitable for various applications, including autonomous driving, surveillance, and medical imaging. Key features include:
 
